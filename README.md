@@ -1,5 +1,5 @@
 # Cyber Security Repo 2023
-LinkedIn [Here](www.linkedin.com/in/emilyrapp50)
+LinkedIn [Here](linkedin.com/in/emilyrapp50)
 
 Resume [Here](https://tinyurl.com/ypd8k8uj)
 
