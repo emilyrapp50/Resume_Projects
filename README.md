@@ -16,5 +16,6 @@ This repo contains a few projects that demonstrate the skills I aquired during m
   9. Network Security: Snort, Firewall rules, IDS, defense layers, cyber kill chain.
   10. Penetration Test: Group project posing at ShadowSecurity LLC, completed a pen test against “MegaCorpOne”.
   11. SIEMS: Used splunk to create a monitoring solution in order to protect "Vandalay" from security attacks.
-  12. Web Development: HTTP
-  13. WebApp Vulnerability Testing: Test three web app vulnerabilities, determine if each is vulnerable, and provide mitigations if so.
+  12. Scanner.py: A simple python script I wrote that returns MAC address of a network IP, and then the connected IP's using ARP
+  13. Web Development: HTTP
+  14. WebApp Vulnerability Testing: Test three web app vulnerabilities, determine if each is vulnerable, and provide mitigations if so.
