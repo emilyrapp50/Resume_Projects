@@ -4,3 +4,8 @@
 [Resume](https://tinyurl.com/ypd8k8uj)
 
 This repo contains a few projects that demonstrate the skills I aquired during my 2023 UC Berkeley Cyber Security BootCamp
+
+  1. BASH: Playing the role of an attacker, in this assignment I remotely accessed a victim's target machine, maintained access using a backdoor, and cracked sensitive passwords in the /etc directory.
+  2. Network Fundamentals I: Used ping, nmap, nslookup, ARP, etc. to comlpete a network assessment.
+  3. Network Fundamentals II: Playing the role of a "Network Jedi working for the resistance", restore the Resistance's core DNS infrastructure and verify that traffic is routing as expected.
+  4. Network Security:  Snort, Firewall rules, IDS, defense layers, cyber kill chain
