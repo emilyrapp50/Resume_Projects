@@ -3,7 +3,7 @@
 
 [Resume](https://tinyurl.com/ypd8k8uj)
 
-This repo contains a few projects that demonstrate the skills I aquired during my 2023 UC Berkeley Cyber Security BootCamp
+This repo contains a few projects that demonstrate the skills I aquired during my 2023 UC Berkeley Cyber Security BootCamp, as well as on my own time. Most relate directly to the skills listed on my resume.
 
   1. BASH: Playing the role of an attacker, in this assignment I remotely accessed a victim's target machine, maintained access using a backdoor, and cracked sensitive passwords in the /etc directory.
   2. Cloud Web App Security: Built, secured and protected a cloud web app. (Azure)
