@@ -12,7 +12,7 @@ This repo contains a few projects that demonstrate the skills I aquired during m
   5. Forensics Report: DC 2012 National Gallery based forensics report. (Iphone)
   6. Governance, Risk and Compliance: Assessing security culture 
   7. Network Fundamentals I: Used ping, nmap, nslookup, ARP, etc. to comlpete a network assessment.
-  8. Network Fundamentals II: Playing the role of a "Network Jedi working for the resistance", restore the Resistance's core DNS infrastructure and verify that traffic is routing as expected.
+  8. Network Fundamentals II: Playing the role of a "Network Jedi working for the resistance", restore core DNS infrastructure and verify that traffic is routing as expected.
   9. Network Security: Snort, Firewall rules, IDS, defense layers, cyber kill chain.
   10. Penetration Test: Group project posing at ShadowSecurity LLC, completed a pen test against “MegaCorpOne”.
   11. SIEMS: Used splunk to create a monitoring solution in order to protect "Vandalay" from security attacks.
